@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a developer from Germany.
+In my day to day job I work as a ServiceNow developer,  
+developing custom modules and processes.
+
+In my freetime I work on other projects, from embedded controller programming and hardware development to woodworking and 3D design.
+
+For any questions, contact me by email (address mentioned in my profile).
 <!--
 **hibatos/hibatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
