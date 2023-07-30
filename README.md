@@ -10,21 +10,23 @@ For any questions, contact me by email (address mentioned in my profile).
 
 # Software I use
 
-[FreeCAD](https://www.freecad.org/)
-[VanillaOS](https://vanillaos.org/)
-[Cura](https://ultimaker.com/software/ultimaker-cura/)
-[Obsidian](https://obsidian.md/)
-[OBS](https://obsproject.com/)
-[VSCode](https://code.visualstudio.com/)
-[Fish Shell](https://fishshell.com/)
-[Firefox](https://www.mozilla.org/)
-[NocoDB](https://nocodb.com/)
-[Portainer](https://www.portainer.io/)
-[Homeassistant](https://www.home-assistant.io/)
-[Proxmox PVE](https://www.proxmox.com/de)
-[OctoApp](https://play.google.com/store/apps/details?id=de.crysxd.octoapp)
-[OctoPrint](https://octoprint.org/)
-
+[FreeCAD](https://www.freecad.org/)  
+[VanillaOS](https://vanillaos.org/)  
+[Cura](https://ultimaker.com/software/ultimaker-cura/)  
+[Obsidian](https://obsidian.md/)  
+[OBS](https://obsproject.com/)  
+[VSCode](https://code.visualstudio.com/)  
+[Fish Shell](https://fishshell.com/)  
+[Firefox](https://www.mozilla.org/)  
+[NocoDB](https://nocodb.com/)  
+[Portainer](https://www.portainer.io/)  
+[Homeassistant](https://www.home-assistant.io/)  
+[Proxmox PVE](https://www.proxmox.com/de)  
+[OctoApp](https://play.google.com/store/apps/details?id=de.crysxd.octoapp)  
+[OctoPrint](https://octoprint.org/)  
+[Svelte](https://svelte.dev/)  
+[SvelteKit](https://svelte.dev/)  
+[PocketBase](https://pocketbase.io)  
 <!--
 **hibatos/hibatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
