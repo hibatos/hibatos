@@ -8,12 +8,12 @@ In my freetime I work on other projects, from embedded controller programming an
 
 For any questions, contact me by email (address mentioned in my profile).
 
-# Software I use
+# Software I like
 
 [FreeCAD](https://www.freecad.org/)  
-~~[VanillaOS](https://vanillaos.org/) (Immutable OS)~~  
+[VanillaOS](https://vanillaos.org/)
 [Ubuntu](https://ubuntu.com/)  
-[BambuStudio](https://github.com/bambulab/BambuStudio) (Cool slicer)  
+[BambuStudio](https://github.com/bambulab/BambuStudio)  
 [Cura](https://ultimaker.com/software/ultimaker-cura/)  
 [Obsidian](https://obsidian.md/)  
 [OBS](https://obsproject.com/)  
@@ -30,6 +30,20 @@ For any questions, contact me by email (address mentioned in my profile).
 [Svelte](https://svelte.dev/)  
 [SvelteKit](https://svelte.dev/)  
 [PocketBase](https://pocketbase.io)  
+[Affinity Designer](https://serif.com)  
+[Affinity Publisher](https://serif.com)  
+[Affinity Photo](https://serif.com)  
+[Inkscape](https://inkscape.org)  
+[Paint.NET](https://getpaint.net)  
+[ANKI](https://apps.ankiweb.net/)  
+[OnlyOffice](https://www.onlyoffice.com/)  
+[VeraCrypt](https://www.veracrypt.fr/)  
+[Thunderbird](https://thunderbird.net/)  
+[NodeJS](https://nodejs.org/)  
+[Bun](https://bun.sh/)  
+[Python](https://python.org/)  
+[Microsoft Terminal](https://github.com/microsoft/terminal)  
+[Windows PowerToys](https://github.com/microsoft/PowerToys)  
 <!--
 **hibatos/hibatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
