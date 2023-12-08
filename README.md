@@ -11,10 +11,13 @@ For any questions, contact me by email (address mentioned in my profile).
 # Software I use
 
 [FreeCAD](https://www.freecad.org/)  
-[VanillaOS](https://vanillaos.org/)  
+~~[VanillaOS](https://vanillaos.org/) (Immutable OS)~~  
+[Ubuntu](https://ubuntu.com/)  
+[BambuStudio](https://github.com/bambulab/BambuStudio) (Cool slicer)  
 [Cura](https://ultimaker.com/software/ultimaker-cura/)  
 [Obsidian](https://obsidian.md/)  
 [OBS](https://obsproject.com/)  
+[OpenSCAD](https://openscad.org/)  
 [VSCode](https://code.visualstudio.com/)  
 [Fish Shell](https://fishshell.com/)  
 [Firefox](https://www.mozilla.org/)  
